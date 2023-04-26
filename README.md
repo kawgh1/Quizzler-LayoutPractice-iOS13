@@ -1,6 +1,8 @@
 
 #  Quizzler - Quiz App
 
+![gif](https://raw.githubusercontent.com/kawgh1/Quizzler-LayoutPractice-iOS13/master/quizApp.gif)
+
 ## Goal
 
 Practice Layouts and the Model View Controller (MVC) pattern.
